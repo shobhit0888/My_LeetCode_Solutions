@@ -3,12 +3,13 @@ class Solution {
          String str="";
          String ss="";
        for(int i=0;i<s.length();i++){
-           if(Character.isWhitespace(s.charAt(i))){
+           char ch=s.charAt(i);
+           if(Character.isWhitespace(ch)){
              str=str+ss+" ";
              ss="";
            }
            else{
-               ss=s.charAt(i)+ss;
+               ss=ch+ss;
            }
        }
        str=str+ss;
