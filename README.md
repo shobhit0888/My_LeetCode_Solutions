@@ -18,3 +18,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/shobhit0888/My_LeetCode_Solutions/tree/master/1013-fibonacci-number) |
+# Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shobhit0888/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
+# Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shobhit0888/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
+# Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shobhit0888/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
