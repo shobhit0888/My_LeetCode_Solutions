@@ -5,10 +5,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shobhit0888/My_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shobhit0888/My_LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 # Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shobhit0888/My_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shobhit0888/My_LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 # Recursion
 |  |
@@ -17,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shobhit0888/My_LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/shobhit0888/My_LeetCode_Solutions/tree/master/1013-fibonacci-number) |
 # Array
 |  |
