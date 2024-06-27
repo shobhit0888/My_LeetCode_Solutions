@@ -33,3 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shobhit0888/My_LeetCode_Solutions/tree/master/0075-sort-colors) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/shobhit0888/My_LeetCode_Solutions/tree/master/1916-find-center-of-star-graph) |
